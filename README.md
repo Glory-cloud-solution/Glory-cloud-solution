@@ -1,49 +1,91 @@
-# Hi there! 👋 Welcome to My GitHub Profile  
+# Hi there, I'm Glory Ugochukwu
 
-I’m **Glory Ugochukwu**, a **Tech-Savvy Customer Experience & IT Support Specialist, Cloud Computing Enthusiast, and Problem Solver**. I’m passionate about **Cloud Computing, IT Support, DevOps, and Technical Customer Support**. My mission is to help businesses streamline operations, optimize cloud solutions, and enhance customer experiences through technology.  
+## Customer Support Specialist | Cloud Solutions Architect | DevOps Enthusiast | SaaS & Cloud Enthusiast
 
----
-
-## 🚀 About Me  
-🔹 **Cloud Computing Enthusiast** – Hands-on experience with AWS, Azure, Google Cloud, EC2, S3, IAM, and Linux.  
-🔹 **IT Support & Technical Troubleshooting** – Remote and onsite support, ticketing systems, and SaaS platforms.  
-🔹 **Customer Experience Specialist** – 3+ years in SaaS, CRM, and CX strategy for tech companies.  
-🔹 **Automation & Process Optimization** – Passionate about scripting, workflow automation, and DevOps.  
+With over **3 years of experience** in customer experience, technical support, and business operations, I specialize in helping SaaS and tech-driven companies deliver world-class customer service, solve complex technical problems, and streamline cloud-based solutions. Now transitioning into **Cloud & DevOps**, I’m merging a strong communication background with hands-on experience in **AWS**, **infrastructure automation**, and **cloud-native tools** to bridge the gap between customer support and cloud engineering.
 
 ---
 
-## 🌱 What I’m Currently Learning  
-📌 **AWS Cloud Computing & Solutions Architecture**  
-📌 **Azure & Google Cloud Fundamentals**  
-📌 **Linux, Bash Scripting & DevOps Tools**  
-📌 **IT Support & Troubleshooting (Remote & Onsite)**  
-📌 **SaaS Support & CRM Optimization**  
+### ⚡ About Me
+
+- Experienced in **B2B & B2C SaaS support**, CRM systems, and cloud-based customer experience tools
+- Skilled in **cloud troubleshooting**, automation, and empathetic tech support
+- **Cloud Solutions Architect** with a focus on AWS, infrastructure-as-code, and automation
+- Adept at **translating complex technical language** into user-friendly communication
+- Experienced in deploying and managing **cloud resources**, automating tasks, and building **serverless applications**
+- Interested in roles across **Cloud Architecture**, **DevOps**, **Cloud Support**, and **Technical Account Management**
 
 ---
 
-## 💡 What I’m Looking to Collaborate On  
-🤝 **Cloud projects, AWS hands-on labs, and DevOps automation**  
-🤝 **IT Support, SaaS troubleshooting, and Technical Customer Support**  
-🤝 **Process automation and workflow optimization**  
+### 🛠️ Skills & Tools
+
+**Cloud, DevOps & SysAdmin**  
+`AWS` | `EC2` | `S3` | `CloudFront` | `IAM` | `Lambda` | `API Gateway` | `DynamoDB` | `SNS` | `EventBridge` | `VPC` | `CloudWatch` | `Terraform (Learning)` | `CodePipeline` | `CodeDeploy` | `CI/CD Practices` | `Linux` | `Shell Scripting`
+
+**Technical Support & CX Tools**  
+`Zendesk` | `Intercom` | `Slack` | `Zoom` | `Microsoft 365` | `Google Workspace`
+
+**Languages & Scripting**  
+`HTML` | `Bash` | `Python (Basic)` | `Markdown`
+
+**Other Skills**  
+`Customer Experience Management` | `Problem Resolution` | `SaaS Support` | `Documentation` | `Architecture Presentation` | `Process Optimization`
 
 ---
 
-## 🔧 Tools & Technologies  
-💻 **Technical & SaaS Support:** Zendesk, HubSpot, Intercom, Slack, Zoom  
-☁ **Cloud & DevOps:** AWS (EC2, S3, IAM, CloudFormation), Azure, Google Cloud, Git, GitHub, Linux  
-📊 **Business & CRM Management:** Google Suite, Microsoft Suite  
-🛠 **Scripting & Automation:** Bash, CLI, Task Automation  
+### 🚀 Projects & Cloud Journey
+
+**1. Static Website Deployment on EC2**  
+Launched and managed an HTML website on Amazon EC2 using Linux, Bash, and Git
+
+**2. Static Website Hosting on S3 + CloudFront**  
+Hosted a versioned website with global distribution via CloudFront; implemented CRR, lifecycle policies, and secured access
+
+**3. Lambda Automation with SNS & EventBridge**  
+Built Python-based Lambda functions for automated EC2 shutdowns, SNS notifications, and scheduled triggers
+
+**4. CRUD Operations with API Gateway, Lambda & DynamoDB**  
+Built serverless APIs for product data management, handling structured/unstructured data and testing with Postman
+
+**5. Bash S3 Backup Automation**  
+Automated S3 backups with a Bash script and AWS CLI on Linux
+
+**6. Private Network + Bastion Host**  
+Designed a secure private VPC network with public/private subnets and connected via a Bastion host
+
+**7. Database Connectivity via EC2**  
+Configured a secure database setup and established access through EC2
+
+**8. Secure Web App Deployment + Cost Optimization**  
+Deployed secure apps with CI/CD pipelines using CodeDeploy, monitored logs, and optimized costs
+
+> 📖 *Read more of my hands-on cloud learning on [Dev.to](https://dev.to/glory_ugochukwu_57b6cf663)*
 
 ---
 
-## 📬 How to Reach Me  
-📧 Email: gloryugochukwu02@gmail.com 
-💼 LinkedIn:https://www.linkedin.com/in/glory-ugochukwu-
-🌐 Portfolio:  
+### 🎯 Career Goals
+
+- Land a role in **Cloud Support**, **DevOps**, or **Solutions Architecture** within a forward-thinking SaaS company
+- Help customers succeed by blending **technical expertise** with **empathetic communication**
+- Deepen proficiency in **Terraform**, **Cloud Security**, and **CI/CD Pipelines**
+- - Continue building projects with **AWS**, **Terraform**, and automation pipelines 
+- Continue contributing to documentation, onboarding flows, and cloud transformation
 
 ---
 
-✨ **Let’s connect and build something amazing in tech!** 🚀
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glory-cloud-solution&show_icons=true&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Glory-cloud-solution&theme=default)
 
--->
+---
+
+### 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/glory-ugochukwu-customer-support-speacialist/)
+- [GitHub](https://github.com/Glory-cloud-solution)
+- [Dev.to](https://dev.to/glory_ugochukwu_57b6cf663)
+
+---
+
+**_"Bringing care, clarity, and cloud solutions to every support ticket and infrastructure challenge."_**
